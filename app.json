@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "nagacao-router-2023",
+    "slug": "nagacao-router-2023"
+  }
+}
